@@ -6,7 +6,7 @@
 
 **内容**：
 
-1. Java实现对Baidu新闻网站（http://news.baidu.com/）新闻列表信息的采集功能；
+1. Java实现对Baidu新闻网站（http://news.baidu.com/） 新闻列表信息的采集功能；
 2. 将采集结果保存到MySQL数据库中。
 
 **要求**：
